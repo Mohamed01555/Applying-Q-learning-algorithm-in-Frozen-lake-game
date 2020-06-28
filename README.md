@@ -1,5 +1,6 @@
 # Applying-Q-learning-algorithm-in-Frozen-lake-game
-Frozen Lake description
+* Frozen Lake description
+
 I’ve grabbed the description of the game directly from Gym’s website. Let’s read through it together.
 
 Winter is here. You and your friends were tossing around a frisbee at the park when you made a wild throw that left the frisbee out in the middle of the lake.
