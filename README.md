@@ -21,8 +21,8 @@ This grid is our environment where:
 * Finally, G represents the goal, which is the space on the grid where the prized frisbee is located.
 
 The agent can navigate left, right, up, and down, and the episode ends when the agent reaches the goal or falls in a hole. It receives a reward of one if it reaches the goal, and zero otherwise.
-*                                                      State 	  Description 	           Reward
- *                                                     S 	Agent’s starting point - safe 	0
-  *                                                    F 	Frozen surface - safe 	        0
-   *                                                   H 	Hole - game over 	              0
-    *                                                  G 	Goal - game over 	              1 
+                                                      State 	  Description 	           Reward
+                                                      S 	Agent’s starting point - safe 	 0
+                                                      F 	Frozen surface - safe 	         0
+                                                      H 	Hole - game over 	              0
+                                                      G 	Goal - game over 	              1 
