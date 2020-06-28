@@ -24,5 +24,5 @@ The agent can navigate left, right, up, and down, and the episode ends when the 
 *                                                      State 	  Description 	              Reward
 *                                                      S 	Agent’s starting point - safe 	    0
 *                                                      F 	Frozen surface - safe 	            0
-*                                                      H 	Hole - game over 	                  0
-*                                                      G 	Goal - game over 	                  1 
+*                                                      H 	Hole - game over 	                0
+*                                                      G 	Goal - game over 	                1 
